@@ -4,10 +4,6 @@
 Bem-vindo ao projeto **Blog Pessoal**, desenvolvido com React.js!  
 Esta aplicação permite aos usuários criarem, visualizarem, editarem e deletarem postagens sobre diversos temas. Ideal para praticar conceitos de front-end, integração com APIs e autenticação de usuários.
 
-## 🔍 Visão Geral
-
-<img src="./de1d2f67-1a0f-477c-b277-16f6d54cb9ff.png" alt="Blog Pessoal" width="100%"/>
-
 ## 🚀 Funcionalidades
 
 - ✅ Cadastro e login de usuários
