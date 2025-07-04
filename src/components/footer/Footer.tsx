@@ -1,5 +1,5 @@
 import {
-	FacebookLogoIcon,
+	GithubLogoIcon,
 	InstagramLogoIcon,
 	LinkedinLogoIcon,
 } from '@phosphor-icons/react'
@@ -18,7 +18,7 @@ function Footer() {
 			<div className="flex justify-center bg-indigo-900 text-white">
 				<div className="container flex flex-col items-center py-4">
 					<p className="text-xl font-bold">
-						Blog Pessoal Generation | Copyright:{' '}
+						Blog Pessoal Aylla Scaglia | Copyright:{' '}
 						{data}
 					</p>
 					<p className="text-lg">
@@ -27,7 +27,7 @@ function Footer() {
 					<div className="flex gap-2">
 						<div className="flex gap-2">
 							<a
-								href="https://www.linkedin.com/in/seu_usuario"
+								href="https://www.linkedin.com/in/aylla-scaglia"
 								target="_blank"
 							>
 								<LinkedinLogoIcon
@@ -36,7 +36,7 @@ function Footer() {
 								/>
 							</a>
 							<a
-								href="https://www.instagram.com/seu_usuario"
+								href="https://www.instagram.com/aylla_scaglia"
 								target="_blank"
 							>
 								<InstagramLogoIcon
@@ -45,10 +45,10 @@ function Footer() {
 								/>
 							</a>
 							<a
-								href="https://www.facebook.com/seu_usuario"
+								href="https://github.com/scaglia-aylla1"
 								target="_blank"
 							>
-								<FacebookLogoIcon
+								<GithubLogoIcon
 									size={48}
 									weight="bold"
 								/>
